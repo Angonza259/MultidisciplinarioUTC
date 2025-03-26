@@ -1,4 +1,4 @@
-Copyright (c) 2025 Angel Gerardo González Nava
+Copyright (c) 2025.
 
 Todos los derechos reservados. Este código no puede ser copiado, modificado, distribuido ni utilizado sin el consentimiento explícito del autor. No se permite el uso comercial sin autorización previa.
 
