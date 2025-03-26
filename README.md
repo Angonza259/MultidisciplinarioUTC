@@ -3,7 +3,7 @@ Projecto multidisciplinario universidad tres culturas 'Tendinitis'
 
 Este es un proyecto de código que se desarrollo mediante el lenguaje de programación "Python" y los lenguajes “HTML” y “CSS” un portal web para que proporcione información útil y relevante para los pianistas con condición de tendinitis junto a un simulador de piano virtual, para rehabiltar los músculos afectados. .
 
-## Derechos de autor
+## Derechos de autor codigo
 
 Copyright (c) 2025 Angel Gerardo González Nava.
 
